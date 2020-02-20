@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ThreadsApp</string>
+    <string name="thread_button">Thread Example</string>
+    <string name="handler_button">Handler Example</string>
+    <string name="async_task_button">AsyncTask Example</string>
+    <string name="progress_text">Progress: %d\%% complete</string>
+    <string name="start_button">Start</string>
+    <string name="stop_button">Stop</string>
+    <string name="reset_button">Reset</string>
+    <string name="download_button">Download again</string>
+    <string name="image_view">Downloaded Image</string>
+</resources>
